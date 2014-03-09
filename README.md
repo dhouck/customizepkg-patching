@@ -1,3 +1,12 @@
+This repository
+===============
+
+This is a fork of [`DanielOertwig/customizepkg-patching`](https://github.com/DanielOertwig/customizepkg-patching) intended to add small improvements such as:
+
+* Support for other patching tools (such as `git diff --no-index` and `git apply`)
+* Better revert handling
+* (if feasible) Safety against malicious `PKGBUILD`s.
+
 customizepkg-patching
 =====================
 
